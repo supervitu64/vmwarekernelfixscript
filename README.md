@@ -1,5 +1,6 @@
 # vmware kernel fix script
 basically a script that fixes a bug regarding newer kernels and vmware compiling while running on those kernels
+
 mostly for 17.5, haven't tested on other versions
 
 copy paste the following script to your console (you need wget and make installed):
